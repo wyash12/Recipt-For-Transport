@@ -1,0 +1,31 @@
+*:focus{
+    outline: none;
+}
+
+.InputL2
+{
+    padding: 0px;
+    border: none;
+    width: 100%;
+    border-radius: 0;
+    font-size: large;
+    color: #000001;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.info{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+
+}
+.button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-decoration: double;
+   margin-left: 450px;
+    background-color: aquamarine;
+    width: 40%;
+}

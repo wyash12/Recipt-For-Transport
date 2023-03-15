@@ -1,0 +1,149 @@
+*{
+padding: 0px;
+margin:0px ;
+}
+
+*:focus{
+    outline: none;
+}
+
+
+.header{
+margin: 0px;
+width: 100%;
+padding: 0ch;
+display: flex;
+}
+
+.image{
+    padding-right: 30px;
+}
+
+.CompanyName
+{   
+    text-align: center;
+    width: 1193.5px;
+    height: 90px;
+    padding: 0px;
+    color: green;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin:  10px 0px 0px 0px;
+    border-bottom: 1px grey solid;
+    padding-bottom: 40px;
+    justify-content: space-evenly;
+    position: relative;
+   
+    
+}
+
+.v1{
+    margin: 0px;
+    border-left: 2px grey solid;
+    height: 150px;
+
+}
+
+.contact{       
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 250px;
+    width: 24px;
+    height: 24px;
+}
+.contactM{       
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 550px;
+    width: 24px;
+    height: 24px;
+}
+
+.contactNumber{
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 290px;
+}
+
+.contactNumberM{
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 585px;
+}
+
+.AddressIcon{
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 950px;
+    width: 24px;
+    height: 24px;
+}
+
+.ExtraInfo
+{
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 65px;
+    font-size: large;
+}
+
+.Address{
+    position: absolute;
+    margin-top: 117px;
+    margin-left: 990px;
+}
+
+.form1{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.FormLabel
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    padding-right: 2px;
+    margin-right: 5px;
+}
+
+.ownerDet
+{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.InputL{
+    border: none;
+    border-bottom: 1px solid;
+    width: 40%;
+    margin-right: 10px;
+    font-size: large;
+    color: #000001;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.InputL1{
+    border: none;
+    border-bottom: 1px solid;
+    width: 25%;
+    margin-right: 10px;
+    font-size: large;
+    color: #000001;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.InputL2
+{
+    padding: 0px;
+    border: none;
+    width: 100%;
+
+    font-size: large;
+    color: #000001;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
